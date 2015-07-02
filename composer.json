@@ -18,9 +18,9 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "5.*.*",
-        "illuminate/auth": "5.*.*",
-        "illuminate/config": "5.*.*",
+        "illuminate/support": "5.*",
+        "illuminate/auth": "5.*",
+        "illuminate/config": "5.*",
         "strebl/adldap": "~4.0"
     },
     "require-dev": {
